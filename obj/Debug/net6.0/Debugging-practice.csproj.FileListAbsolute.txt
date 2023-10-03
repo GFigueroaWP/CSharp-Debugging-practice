@@ -1,0 +1,15 @@
+e:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\obj\Debug\net6.0\Debugging-practice.csproj.AssemblyReference.cache
+e:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\obj\Debug\net6.0\Debugging-practice.GeneratedMSBuildEditorConfig.editorconfig
+e:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\obj\Debug\net6.0\Debugging-practice.AssemblyInfoInputs.cache
+e:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\obj\Debug\net6.0\Debugging-practice.AssemblyInfo.cs
+e:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\obj\Debug\net6.0\Debugging-practice.csproj.CoreCompileInputs.cache
+E:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\bin\Debug\net6.0\Debugging-practice.exe
+E:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\bin\Debug\net6.0\Debugging-practice.deps.json
+E:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\bin\Debug\net6.0\Debugging-practice.runtimeconfig.json
+E:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\bin\Debug\net6.0\Debugging-practice.dll
+E:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\bin\Debug\net6.0\Debugging-practice.pdb
+E:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\obj\Debug\net6.0\Debugging-practice.dll
+E:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\obj\Debug\net6.0\refint\Debugging-practice.dll
+E:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\obj\Debug\net6.0\Debugging-practice.pdb
+E:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\obj\Debug\net6.0\Debugging-practice.genruntimeconfig.cache
+E:\Training\CodingDojo\C#\2.C#-install\Debugging-practice\obj\Debug\net6.0\ref\Debugging-practice.dll
